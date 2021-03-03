@@ -1,4 +1,4 @@
-setwd("C:/Users/quynh/Desktop/Fin Econometrics all")
+setwd("path")
 library(fBasics)
 #Assignment 1
 # Consider the daily simple returns of Google (GOOG) stock, CRSP value-weighted index (VW), 
